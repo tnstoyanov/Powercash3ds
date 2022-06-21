@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powercash3ds", "Powercash3ds.csproj", "{335A4F91-7E43-41BC-BF12-949200621120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335A4F91-7E43-41BC-BF12-949200621120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335A4F91-7E43-41BC-BF12-949200621120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335A4F91-7E43-41BC-BF12-949200621120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335A4F91-7E43-41BC-BF12-949200621120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851FFCF1-233E-4045-95FA-24B0A7F510A0}
+	EndGlobalSection
+EndGlobal
